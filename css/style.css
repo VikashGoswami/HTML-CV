@@ -1,0 +1,41 @@
+body{
+    background-color: #EAF6F6;
+    padding: 0 70px;
+    margin: 0px;
+}
+h1,h3
+{
+    color: #66BFBF;
+    
+    margin: 10px 0;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+th, td {
+     padding: 0 15px; text-align: left;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+.git:hover{
+    color: red;
+}
+
+.link:hover{
+    color: #0077b5;
+}
+
+.google:hover{
+    color: #dd4b39;
+}
+
